@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="center">A passionate backend developer from Ukraine</h3>
+<h3 align="center">A passionate Backend Developer from Ukraine</h3>
 
+I've been learning python for 5 years, now i learning Rust and C++
 
-- 🌱 I’m currently learning **Rust, C++**
+* 🌍  I'm based in Kyiv
+* 🧠  I'm learning Rust, C++
+* 🤝  I'm open to collaborating on any type of projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
