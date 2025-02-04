@@ -1,6 +1,6 @@
 ## <h1 align="center">Hi 👋, I'm Artem</h1>
 # <h2 align="center">💫 About Me</h2>
-<h3><br>    🌍  I'm based in Kyiv<br>    🧠  I'm learning Rust, C++<br>    🤝  I'm open to collaborating on any type of projects<br></h3>
+<h3><br>    🌍  I'm based in Kyiv<br>    🧠  I'm learning Python, Rust, C++<br>    🤝  I'm open to collaborating on any type of projects<br></h3>
 
 
 ## <h2 align="center">🌐 Socials:
