@@ -5,7 +5,7 @@
 ## <h2 align="center">🌐 Socials:
 <a href="https://discord.gg/dbknbka"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" width="110" height="35"/></a>
 <a href="https://instagram.com/___artem_chik___"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="120" height="34"/></a>
-<a href="[https://discord.gg/dbknbka](https://tiktok.com/@csgo2_movie)"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="Discord" width="120" height="37"/></a>
+<a href="https://discord.gg/dbknbka](https://tiktok.com/@csgo2_movie"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="Discord" width="120" height="37"/></a>
 
 # <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
