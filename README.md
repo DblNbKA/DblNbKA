@@ -1,3 +1,4 @@
+## Hi 👋 I'mm Artem
 # 💫 About Me:
 <br>    🌍  I'm based in Kyiv<br>    🧠  I'm learning Rust, C++<br>    🤝  I'm open to collaborating on any type of projects<br>
 
