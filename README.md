@@ -3,7 +3,9 @@
 <h3><br>    🌍  Based in Kyiv<br>    🧠  More than 4 years in Python<br>    🔍  Now exploring Rust, C++, HTML and CSS<br>    🤝  Open to collaborating on any type of projects<br></h3>
 
 ## <h2 align="center">🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dbknbka) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___artem_chik___)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@csgo2_movie)
+<a href="https://discord.gg/dbknbka"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" width="110" height="35"/></a>
+<a href="https://instagram.com/___artem_chik___"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="120" height="35"/></a>
+<a href="[https://discord.gg/dbknbka](https://tiktok.com/@csgo2_movie)"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="Discord" width="120" height="35"/></a>
 
 # <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
