@@ -1,6 +1,6 @@
 ## <h1 align="center">Hi 👋, I'm Artem!</h1>
 # <h2 align="center">💫 About Me</h2>
-<h3><br>    🌍  Based in Kyiv<br>    🧠  More than 4 years in Python<br>    🔍  Now exploring Rust, C++, HTML and CSS<br>    🤝  Open to collaborating on any type of projects<br></h3>
+<h3><br>    🌍  Based in Kyiv<br>    🧠  More than 4 years in Python<br>    🔍  Now exploring C++, HTML and CSS<br>    🤝  Open to collaborating on any type of projects<br></h3>
 
 ## <h2 align="center">🌐 Socials:
 <a href="https://discord.gg/dbknbka"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" width="110" height="35"/></a>
