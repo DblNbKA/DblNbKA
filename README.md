@@ -20,16 +20,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DblNbKA&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DblNbKA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=DblNbKA&icon=0&color=0" alt="Visitor Count" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DblNbKA&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DblNbKA&theme=dark&hide_border=false&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
